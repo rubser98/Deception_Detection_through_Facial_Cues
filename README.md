@@ -10,7 +10,7 @@ ACM on International Conference on Multimodal Interaction (ICMI ’15). ACM,
 New York, NY, USA, 59-66.
 
 ## Architecture
-![](./00 - Images/pipeline.PNG?raw=true)
+![pipeline](./images/pipeline.PNG?raw=true)
 
 ## References
 Danilo Avola, Marco Cascio, Luigi Cinque, Alessio Fagioli and Gian Luca Foresti,
